@@ -337,10 +337,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0088a6c868300ab489faaf3f7faf4b1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sizeOfForest: 11
-  forestRadius: 10
+  sizeOfForest: 12
+  forestRadius: 6.3
   forestCenter: {x: 30, y: 0, z: 0}
-  pyramidBaseSize: 10
+  pyramidBaseSize: 4
   trees: []
   celestialRotationSpeed: 20
 --- !u!4 &1131372103
